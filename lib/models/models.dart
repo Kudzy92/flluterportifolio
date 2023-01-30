@@ -1,0 +1,9 @@
+export 'about_model.dart';
+export 'contact_model.dart';
+export 'education_model.dart';
+export 'experience_model.dart';
+export 'portfolio_model.dart';
+export 'social_model.dart';
+export 'home_model.dart';
+export 'skill_model.dart';
+export 'service_model.dart';
